@@ -31,7 +31,7 @@ public class guageandseekbar extends AppCompatActivity {
 
         arcGauge.setMinValue(0.0);
         arcGauge.setMaxValue(100.0);
-        arcGauge.setValue(35);
+        arcGauge.setValue(34);
 
         arcGauge.addRange(range);
 
